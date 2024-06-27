@@ -27,3 +27,5 @@ Obs: Se você se sentir à vontade, pode postar um print do resultado final e no
 Vai ser incrível acompanhar a sua evolução! 💜
 
 Feito com 💜 por Rocketseat 👋 Participe da nossa [comunidade aberta](https://discord.gg/Ns86RQyVH8)
+
+![Captura de tela de 2024-06-27 14-45-39](https://github.com/RastaDev21/GitFav/assets/166159457/fb0edd92-0f92-45b9-a7e0-ff924c620ce1)
